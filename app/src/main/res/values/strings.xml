@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Event</string>
+    <string name="home">Home</string>
+    <string name="events">Events</string>
+    <string name="following">Following</string>
+    <string name="profile">Profile</string>
+    <string name="cart">Cart</string>
+    <string name="good_morning">Good Morning</string>
+</resources>
